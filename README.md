@@ -1,4 +1,4 @@
-# Server is NOT UP
+# Server is UP
 # Be Sure to install Forge 1.19.2 using the attached forge-installer.jar file
 # To download simply press Code > Download Zip
 ![STEP1](https://raw.githubusercontent.com/galoom424/random-images/main/download-1.png "Step 1")
